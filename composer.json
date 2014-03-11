@@ -46,7 +46,7 @@
 			},
 			"transifex": {
 				"project": "avisota-contao",
-				"prefix": "contao-message-element-headline",
+				"prefix": "contao-message-element-headline-",
 				"languages_cto": "module/languages",
 				"languages_tx": ".tx"
 			}
