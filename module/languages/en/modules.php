@@ -13,11 +13,10 @@
  * @filesource
  */
 
-
 /**
  * Module
  */
 $GLOBALS['TL_LANG']['MOD']['avisota-message-element-headline'] = array(
-	'Avisota - Message element "Headline"',
-	'"Headline" message element for Avisota messages.'
+    'Avisota - Message element "Headline"',
+    '"Headline" message element for Avisota messages.'
 );

@@ -13,8 +13,7 @@
  * @filesource
  */
 
-
 /**
  * Mailing content elements
  */
-$GLOBALS['TL_LANG']['MCE']['headline']  = array('Headline', 'Generates a headline (h1 - h6).');
+$GLOBALS['TL_LANG']['MCE']['headline'] = array('Headline', 'Generates a headline (h1 - h6).');

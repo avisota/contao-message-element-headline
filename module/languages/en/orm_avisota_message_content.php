@@ -13,11 +13,10 @@
  * @filesource
  */
 
-
 /**
  * Fields
  */
 $GLOBALS['TL_LANG']['orm_avisota_message_content']['headline'] = array(
-	'Headline',
-	'Here you can add a headline to the content element.'
+    'Headline',
+    'Here you can add a headline to the content element.'
 );
