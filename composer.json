@@ -43,19 +43,13 @@
     "prefer-stable": true,
     "autoload": {
         "psr-4": {
-            "Avisota\\Contao\\Message\\Element\\Headline": "src/"
+            "Avisota\\Contao\\Message\\Element\\Headline\\": "src/"
         }
     },
     "extra": {
         "contao": {
             "sources": {
                 "contao": "system/modules/avisota-message-element-headline"
-            },
-            "transifex": {
-                "project": "avisota-contao",
-                "prefix": "contao-message-element-headline-",
-                "languages_cto": "contao/languages",
-                "languages_tx": ".tx"
             }
         },
         "branch-alias": {
