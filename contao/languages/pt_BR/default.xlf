@@ -3,10 +3,12 @@
     <body>
       <trans-unit id="MCE.headline.0">
         <source>Headline</source>
+        <target>Título</target>
         
       </trans-unit>
       <trans-unit id="MCE.headline.1">
         <source>Generates a headline (h1 - h6).</source>
+        <target>Gera um título (h1 - h6).</target>
         
       </trans-unit>
     </body>

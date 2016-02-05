@@ -3,10 +3,12 @@
     <body>
       <trans-unit id="orm_avisota_message_content.headline.0">
         <source>Headline</source>
+        <target>Título</target>
         
       </trans-unit>
       <trans-unit id="orm_avisota_message_content.headline.1">
         <source>Here you can add a headline to the content element.</source>
+        <target>Aqui você pode adicionar um título para o elemento de conteúdo.</target>
         
       </trans-unit>
     </body>
