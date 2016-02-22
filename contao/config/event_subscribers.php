@@ -13,7 +13,8 @@
  * @filesource
  */
 
-/**
- * Message elements
- */
-$GLOBALS['TL_MCE']['texts'][] = 'headline';
+use Avisota\Contao\Message\Element\Headline\DefaultRenderer;
+
+return array(
+    new DefaultRenderer()
+);
